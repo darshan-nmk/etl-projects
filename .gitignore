@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+log_file.txt
+*.csv
+transformed_data.csv
